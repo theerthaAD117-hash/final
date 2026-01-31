@@ -1,4 +1,7 @@
-public class final()
+public class 
+{
+public void main()
 {
  Sysytem.out.println(" Hi , I'm Theertha");
+}
 }
